@@ -1,3 +1,4 @@
+-- bruh
 DROP TRIGGER IF EXISTS validate_email;
 DELIMITER $$
 CREATE TRIGGER validate_email

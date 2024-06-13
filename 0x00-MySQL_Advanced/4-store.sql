@@ -1,3 +1,4 @@
+-- bruh
 DROP TRIGGER IF EXISTS reduce_quantity;
 DELIMITER $$
 CREATE TRIGGER reduce_quantity

@@ -1,3 +1,4 @@
+-- bruh
 DROP PROCEDURE IF EXISTS ComputeAverageWeightedScoreForUser;
 DELIMITER $$
 CREATE PROCEDURE ComputeAverageWeightedScoreForUser (user_id INT)
